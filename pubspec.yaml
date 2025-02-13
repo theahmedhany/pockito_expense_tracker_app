@@ -1,0 +1,47 @@
+name: pockito_expense_tracker_app
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  device_preview: ^1.2.0
+  fl_chart: ^0.70.2
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.0.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.4.4
+  flutter_slidable: ^4.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_native_splash:
+  color: "#F3F5F7" # Color of the background of the splash screen
+  image: assets/master/splash_screen.png # image path
+  android_12:
+    image: assets/master/splash_screen.png # image path
+    color: "#F3F5F7" # Color of the background of the splash screen
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/master/icon.png" # Logo image path
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/master/
