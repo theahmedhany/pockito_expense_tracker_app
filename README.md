@@ -27,7 +27,7 @@ With **Pockito**, expense management becomes effortless. Whether monitoring **da
 
 ## Demo and Resources
 #### To see **Pockito** in action, check out the video below:
-https://github.com/user-attachments/assets/c0beac14-d1aa-42c5-9bae-c5953d36cec0
+https://github.com/user-attachments/assets/007be0ae-32fe-40f4-b902-e3d23084c9d1
 
 
 #### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
