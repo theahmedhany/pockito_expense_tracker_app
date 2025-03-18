@@ -30,7 +30,7 @@ With **Pockito**, expense management becomes effortless. Whether monitoring **da
 https://github.com/user-attachments/assets/007be0ae-32fe-40f4-b902-e3d23084c9d1
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_flutter-dart-expensetracker-activity-7307720467191066624-QGi_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4FnzgB4-BOljZQx1QUyX_wMN1DWKHGx2o"> Click Here. </a>
 
 -----
 
